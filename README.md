@@ -80,4 +80,4 @@ sistema-tienda-ninos/
 
 ---
 
-> 🇩🇴 Desarrollado con ❤️ en Santo Domingo, República Dominicana.
+> Desarrollado por Jordan Viola en Santo Domingo, República Dominicana.
